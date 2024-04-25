@@ -1,3 +1,2 @@
 # SplitwiseApp
-description
-Implementation algorithm for Splitwise using Graphs
+Implemented the Algorithm for splitwise App using Graphs
